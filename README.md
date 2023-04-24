@@ -25,3 +25,6 @@ Desarrollar una aplicación web que permita a los usuarios ingresar su enlace de
 Una aplicación web funcional que permita a los usuarios ingresar su enlace de perfil de LinkedIn y recibir un análisis detallado de su perfil, incluyendo una puntuación global y puntuaciones por secciones, así como gráficos y visualizaciones.
 
 ***
+
+![underconstruction_ccalvop](https://user-images.githubusercontent.com/126183973/234038103-2ab74b58-e1ed-48b3-b45d-74de0e3f18cf.jpg)
+

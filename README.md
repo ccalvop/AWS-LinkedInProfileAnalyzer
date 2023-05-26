@@ -1,5 +1,7 @@
 # AWS-LinkedInProfileAnalyzer
 
+![diagram-LinkedInProfileAnalyzer](https://github.com/ccalvop/AWS-LinkedInProfileAnalyzer/assets/126183973/c5936b71-1b62-4312-9a16-76f6ba020736)
+
 **Objetivo:**
 
 Desarrollar una aplicación web que permita a los usuarios ingresar su enlace de perfil de LinkedIn, analizarlo utilizando inteligencia artificial y servicios de AWS, y proporcionar una puntuación y gráficos detallados del perfil, incluyendo una puntuación global y puntuaciones por secciones.
